@@ -1,7 +1,7 @@
 name = "zerodha-holdings-app"
 compatibility_date = "2024-01-01"
 pages_build_output_dir = "."
-CF_Token = "dzolZNqPqP3tAHkBHr9dO2f9KXrpq7FUxl5z03Ls"
+#CF_Token = "dzolZNqPqP3tAHkBHr9dO2f9KXrpq7FUxl5z03Ls"
 
 #[env.production]
 # Environment variables will be set in Cloudflare dashboard
