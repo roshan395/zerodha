@@ -1,8 +1,0 @@
-name = "zerodha-holdings-app"
-compatibility_date = "2024-01-01"
-pages_build_output_dir = "."
-
-#[env.production]
-# Environment variables will be set in Cloudflare dashboard
-# ZERODHA_API_KEY
-# ZERODHA_API_SECRET
