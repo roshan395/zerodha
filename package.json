@@ -1,0 +1,22 @@
+{
+  "name": "zerodha-holdings-app",
+  "version": "1.0.0",
+  "description": "Zerodha Kite Connect holdings viewer app deployed on Cloudflare Pages",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler pages dev .",
+    "deploy": "wrangler pages deploy ."
+  },
+  "keywords": [
+    "zerodha",
+    "kite-connect",
+    "cloudflare-pages",
+    "trading",
+    "holdings"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
